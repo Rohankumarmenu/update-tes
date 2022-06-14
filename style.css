@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+header{
+   background-image: url(business1.jpg);
+   height: auto;
+   background-size: cover;
+   background-position: center;
+}
+
+/* nav{
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+ 
